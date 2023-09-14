@@ -31,6 +31,10 @@ Other properties:
 - ✅ [Zathura](https://pwmt.org/projects/zathura/) - document/ebook viewer
 - 🛠️ [Nmodsxiv](https://github.com/BeyondMagic/nmodsxiv) - image viewer, fork of Nsxiv
 
+## Utility
+
+- ✅ [Rofi](https://davatorium.github.io/rofi/) - application launcher
+
 ---
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
