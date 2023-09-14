@@ -7,7 +7,7 @@ Translucent applications (apps with background transparency support) are awesome
 
 Support level:
 
-- ✅ built-in support
+- ✅ built-in configuration support
 - 🛠️ with hacks, fork
 - 🧩 with plugins
 
@@ -25,6 +25,7 @@ Other properties:
 
 - ✅ ⚙️ [Kitty](https://sw.kovidgoyal.net/kitty/)
 - ✅ [Alarcitty](https://alacritty.org/)
+- 🛠️ [st](https://st.suckless.org/)
 
 ## Media Viewer
 
@@ -34,6 +35,7 @@ Other properties:
 ## Utility
 
 - ✅ [Rofi](https://davatorium.github.io/rofi/) - application launcher
+- ✅ [Polybar](https://polybar.github.io/) - status bar
 
 ---
 
