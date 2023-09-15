@@ -14,6 +14,9 @@ Support level:
 Other properties:
 
 - ⚙️ dynamic (change transparency when app running)
+
+https://github.com/brainwo/awesome-transparency/assets/45139213/c7dc4eba-8825-49f3-aba7-b273fbd5b026
+  
 - ➖ forced transparency (text and other contents are also transparent, not good)
 
 ## IDE/Code Editor
