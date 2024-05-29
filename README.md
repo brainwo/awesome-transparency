@@ -16,13 +16,17 @@ Other properties:
 - ⚙️ dynamic (change transparency when app running)
 
 https://github.com/brainwo/awesome-transparency/assets/45139213/c7dc4eba-8825-49f3-aba7-b273fbd5b026
-  
+
 - ➖ forced transparency (text and other contents are also transparent, not good)
 
 ## IDE/Code Editor
 
 - 🧩 ➖ [Visual Studio Code](https://code.visualstudio.com/)
 - ✅ [Neovide](https://neovide.dev/)
+
+## Web Browser
+
+- 🛠️ [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [CSS](https://gist.github.com/nicman23/40ca521d4ff216cf6c7a2a2d7e6d8027)
 
 ## Terminal Emulator
 
