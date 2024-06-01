@@ -37,7 +37,7 @@ https://github.com/brainwo/awesome-transparency/assets/45139213/c7dc4eba-8825-49
 ## Media Viewer
 
 - ✅ [Zathura](https://pwmt.org/projects/zathura/) - document/ebook viewer
-- 🛠️ [Nmodsxiv](https://github.com/BeyondMagic/nmodsxiv) - image viewer, fork of Nsxiv
+- 🛠️ [Nmodsxiv](https://github.com/brainwo/nmodsxiv) - image viewer, fork of Nsxiv
 
 ## Utility
 
