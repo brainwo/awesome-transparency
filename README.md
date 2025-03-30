@@ -26,7 +26,7 @@ https://github.com/brainwo/awesome-transparency/assets/45139213/c7dc4eba-8825-49
 
 ## Web Browser
 
-- 🛠️ [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [CSS](https://gist.github.com/nicman23/40ca521d4ff216cf6c7a2a2d7e6d8027)
+- 🛠️ [Firefox](https://www.mozilla.org/en-US/firefox/new/) (CSS) - [Toolbar](https://gist.github.com/nicman23/40ca521d4ff216cf6c7a2a2d7e6d8027), [Pages](https://www.reddit.com/r/FirefoxCSS/comments/1etangp/the_new_way_to_have_transparency_in_new_tab/)
 
 ## Terminal Emulator
 
